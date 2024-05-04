@@ -1,0 +1,9 @@
+pydantic
+fastapi
+uvicorn
+jwt
+pyjwt
+requests
+pytest
+httpx
+python-dotenv
